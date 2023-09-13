@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin CASSARD</h1>
-<p align="center">─────────────────</p>
+
 
 I'm a student who is passionate about IT 🖥 and travel 📸
 
