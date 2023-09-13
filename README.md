@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi 👋, I'm Robin CASSARD
+I'm a student who is passionate about IT 🖥 and travel 📸
 
-<!--
-**nexiath/nexiath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nexiathr&color=blue)
 
-Here are some ideas to get you started:
+🔭 I’m currently working on University of Franche-Comte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Data Science, I have hands-on experience with Machine Learning algorithms, Data Analysis tools, and Statistical models. I'm always keen to dive into datasets to unearth insights and solve real-world problems.
+
+📫 How to reach me robin.cassard@edu.univ-fcomte.fr
+
+Connect with me:
+[https://www.linkedin.com/in/robin-cassard/](https://www.linkedin.com/in/robin-cassard/)
+
+Languages and Tools:
+![](https://img.shields.io/badge/Data%20Science-blue)
+![](https://img.shields.io/badge/Machine%20Learning-orange)
+![](https://img.shields.io/badge/Python-green)
+![](https://img.shields.io/badge/R-red)
+![](https://img.shields.io/badge/SQL-yellow)
