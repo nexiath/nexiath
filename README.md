@@ -25,21 +25,6 @@ I love diving into datasets to unearth insights and solve real-world problems.
 
 ---
 
-## 📫 Contact Information
-
-For collaboration, questions, or just for a friendly chat, feel free to reach out to me at 📧 [robin.cassard@edu.univ-fcomte.fr](mailto:robin.cassard@edu.univ-fcomte.fr).
-
-## 🌐 Connect with Me
-
-If you'd like to network or just say hi, here's where you can find me:
-
-<a href="https://www.linkedin.com/in/robin-cassard/"><img align="left" alt="Robin Cassard LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
-
-<br />
-<br />
-
----
-
 ## 🌍 Main languages:
 
   ![](https://skillicons.dev/icons?i=html,css,java,c,cpp,js,ts,nodejs,python,php)
@@ -59,6 +44,21 @@ If you'd like to network or just say hi, here's where you can find me:
 
 ## 🔧 System:
  ![](https://skillicons.dev/icons?i=linux,nginx)
+
+---
+
+## 📫 Contact Information
+
+For collaboration, questions, or just for a friendly chat, feel free to reach out to me at 📧 [robin.cassard@edu.univ-fcomte.fr](mailto:robin.cassard@edu.univ-fcomte.fr).
+
+## 🌐 Connect with Me
+
+If you'd like to network or just say hi, here's where you can find me:
+
+<a href="https://www.linkedin.com/in/robin-cassard/"><img align="left" alt="Robin Cassard LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+
+<br />
+<br />
 
 ---
 
