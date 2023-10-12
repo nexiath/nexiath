@@ -40,22 +40,28 @@ If you'd like to network or just say hi, here's where you can find me:
 
 ---
 
-## 🔧 Languages & Tools
+## 🌍 Main languages:
 
-I have experience with the following languages and tools:
+  ![](https://skillicons.dev/icons?i=html,css,java,c,cpp,js,ts,nodejs,python,php)
 
-![](https://img.shields.io/badge/Code-Bootstrap-blue)
-![](https://img.shields.io/badge/Code-C%23-blue)
-![](https://img.shields.io/badge/Code-CSS3-blue)
-![](https://img.shields.io/badge/Tool-Git-blue)
-![](https://img.shields.io/badge/Code-HTML5-blue)
-![](https://img.shields.io/badge/Code-Java-blue)
-![](https://img.shields.io/badge/Code-JavaScript-blue)
-![](https://img.shields.io/badge/Tool-Linux-blue)
-![](https://img.shields.io/badge/DB-MySQL-blue)
-![](https://img.shields.io/badge/Tool-Photoshop-blue)
-![](https://img.shields.io/badge/Code-Python-blue)
+## ⚙ Main Frameworks:
+
+  ![](https://skillicons.dev/icons?i=react,nextjs,laravel)
+  
+
+## 💾 Data Storage:
+  ![](https://skillicons.dev/icons?i=mysql,mongodb)
+
+## ⚙️ Utils:
+
+  ![](https://skillicons.dev/icons?i=figma,docker,blender,git,postman)
+
+
+## 🔧 System:
+ ![](https://skillicons.dev/icons?i=linux,nginx)
 
 ---
+
+## Mes stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexiath&show_icons=true&theme=radical)
