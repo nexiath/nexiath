@@ -37,13 +37,6 @@ I love diving into datasets to unearth insights and solve real-world problems.
 ## 💾 Data Storage:
   ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
-## ⚙️ Utils:
-
-  ![](https://skillicons.dev/icons?i=figma,docker,blender,git,postman)
-
-
-## 🔧 System:
- ![](https://skillicons.dev/icons?i=linux,nginx)
 
 ---
 
@@ -62,6 +55,6 @@ If you'd like to network or just say hi, here's where you can find me:
 
 ---
 
-## Stats
+## 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexiath&show_icons=true&theme=radical)
