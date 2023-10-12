@@ -57,3 +57,5 @@ I have experience with the following languages and tools:
 ![](https://img.shields.io/badge/Code-Python-blue)
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexiath&show_icons=true&theme=radical)
