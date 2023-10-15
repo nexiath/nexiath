@@ -58,3 +58,4 @@ If you'd like to network or just say hi, here's where you can find me:
 ## 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexiath&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/nexiath/github-stats/master/generated/overview.svg#gh-dark-mode-only)
