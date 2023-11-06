@@ -53,9 +53,4 @@ If you'd like to network or just say hi, here's where you can find me:
 <br />
 <br />
 
----
 
-## 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexiath&show_icons=true&theme=radical),
-![](https://github.com/nexiath/github-stats/blob/master/generated/overview.svg)
