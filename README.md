@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin CASSARD</h1>
 <p align="center">A student who is passionate about Information Technology 🖥 and Travel 📸</p>
 
-<p align="center">robincassard.com</p>
+<p align="center">www.robincassard.com</p>
 
 <div align="center">
 
