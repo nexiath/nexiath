@@ -80,7 +80,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-cassard/)
 [![X](https://img.shields.io/badge/@nexiathr-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nexiathr)
-[![Mail](https://img.shields.io/badge/Email-robin.cassard%40edu.univ--fcomte.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.cassard@edu.univ-fcomte.fr)
+[![Mail](https://img.shields.io/badge/Email-robin.cassard%40edu.univ--fcomte.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.cassard39@gmail.com)
 
 ---
 
