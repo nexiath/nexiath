@@ -1,58 +1,96 @@
-<h1 align="center">Hi 👋, I'm Robin CASSARD</h1>
-<p align="center">A student who is passionate about Information Technology 🖥 and Travel 📸</p>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Robin&nbsp;—&nbsp;Full-stack&nbsp;dev&nbsp;·&nbsp;AI%20%26%20Web3%20explorer-0fa9e6?style=for-the-badge&logoColor=white&labelColor=1d1f21"
+    alt="Robin — Full-stack dev · AI & Web3 explorer"
+  />
+</p>
 
-<p align="center">www.robincassard.com</p>
+<h1 align="center">Hey&nbsp;👋, I'm <code>Robin</code></h1>
+<p align="center">
+  <samp>Full-stack dev · Web3 &amp;&nbsp;AI explorer · Always learning</samp><br/>
+  <a href="https://robincassard.com">robincassard.com</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=380&lines=Code.+Ship.+Learn.+Repeat." alt="typing" />
+</p>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nexiathr&color=blue)
-
+  <img src="https://komarev.com/ghpvc/?username=nexiathr&color=00e5ff&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/nexiathr?label=Follow&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Building-0fa9e6?style=flat-square"/>
 </div>
 
 ---
 
-## 🎓 Education
+## 🚀 &nbsp;Active Projects
 
-🔭 I'm currently a student at the [University of Franche-Comté](https://www.univ-fcomte.fr/), where I'm pursuing my interests in computer science and technology. I'm keen to apply my learnings in real-world scenarios.
-
-## 🌱 Current Learning Journey
-
-I'm deeply interested in Data Science and am always learning new techniques and tools to improve my skill set. I have hands-on experience with:
-
-- Machine Learning Algorithms
-- Data Analysis Tools
-- Statistical Models
-
-I love diving into datasets to unearth insights and solve real-world problems.
+| 🌟 | Project | Tech Highlights | Purpose |
+|:--:|---------|-----------------|---------|
+| 1 | **LearnLoop** | Next.js · Supabase · Postgres | AI-powered revision SaaS for schools |
+| 2 | **FlashBundler** | Solidity · Hardhat · ZK | Bundles swaps / bridges to slash gas & fees |
+| 3 | **SleepTuner** | React Native · TS · LSTM | Predicts optimal bedtime from 20+ signals |
+| 4 | **Fibre ou Pipeau** | SvelteKit · MapLibre | Checks real-time fibre eligibility in 🇫🇷 |
 
 ---
 
-## 🌍 Main languages:
+## 🧰 &nbsp;Toolbox
 
-  ![](https://skillicons.dev/icons?i=html,css,java,c,cpp,js,ts,nodejs,python,php)
+![Stack](https://skillicons.dev/icons?i=ts,js,python,rust,solidity,react,nextjs,svelte,docker,kubernetes,postgres,mysql,redis,aws,gcp,linux,git,graphql)
 
-## ⚙ Main Frameworks:
-
-  ![](https://skillicons.dev/icons?i=react,nextjs,laravel)
-  
-
-## 💾 Data Storage:
-  ![](https://skillicons.dev/icons?i=mysql,mongodb)
-
+- **Frontend** → React (App Router), Tailwind / Shadcn, Motion Framer  
+- **Backend** → NestJS, Node 18+, GraphQL, tRPC, WebSockets  
+- **Data/ML** → Polars • DuckDB • Dagster • MLflow • W&B  
+- **Dev UX** → Neovim + tmux, Claude Code CLI, Gemini Code CLI  
+- **Ops** → Fly.io Machines, Vercel Edge, Terraform & Pulumi  
 
 ---
 
-## 📫 Contact Information
+## 📈 &nbsp;GitHub Vibes
 
-For collaboration, questions, or just for a friendly chat, feel free to reach out to me at 📧 [robin.cassard@edu.univ-fcomte.fr](mailto:robin.cassard@edu.univ-fcomte.fr).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nexiathr&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues"/>
+  <img src="https://streak-stats.demolab.com?user=nexiathr&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🌐 Connect with Me
+---
 
-If you'd like to network or just say hi, here's where you can find me:
+## 🎯 &nbsp;2025 Learning Radar
 
-<a href="https://www.linkedin.com/in/robin-cassard/"><img align="left" alt="Robin Cassard LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+| 🔍 Area | 📚 Why |
+|---------|--------|
+| **Burn** (Rust DL) | Rust + AI without Python shackles |
+| zk-VMs (SP1 / Risc-Zero) | Verifiable AI & on-chain compute |
+| LangGraph + AutoGen | Multi-agent pipelines that ship code |
+| Hybrid TS Models | Better chronobiology predictions |
 
-<br />
-<br />
+---
 
+## 🛣️ &nbsp;Path
 
+| 🗓️ | Timeline | Role & Mission |
+|-----|----------|----------------|
+| **2023 → 2027** | **UTBM** – Ingénieur informatique (AI major) | Building a deep toolbox from C to Web3 |
+| **2024 → now** | **Forvia** (apprentice) | Digitalising EDI onboarding with modular React forms |
+| **2025 (summer)** | **YAS — DSI Antananarivo** | Mapping 1k+ servers: automated SBOM, vulnerability & network-topology visualisation |
+
+---
+
+## 📫 &nbsp;Reach out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-cassard/)
+[![X](https://img.shields.io/badge/@nexiathr-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nexiathr)
+[![Mail](https://img.shields.io/badge/Email-robin.cassard%40edu.univ--fcomte.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.cassard@edu.univ-fcomte.fr)
+
+---
+
+<details>
+  <summary>🧩 &nbsp;Extras</summary>
+
+* 💡 Favourite command: <code>git push origin --force-with-lease</code>  
+
+</details>
+
+---
+
+<p align="center"><samp>“Build small, ship fast, learn always.”</samp></p>
