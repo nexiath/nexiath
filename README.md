@@ -46,11 +46,12 @@
 
 ---
 
-## 📈 &nbsp;GitHub Vibes
+## 📈 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexiathr&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues"/>
-  <img src="https://streak-stats.demolab.com?user=nexiathr&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Commits-{{ COMMITS }}-0fa9e6?style=for-the-badge" alt="commits"/>
+  <img src="https://img.shields.io/badge/PRs-{{ PRS }}-0fa9e6?style=for-the-badge" alt="prs"/>
+  <img src="https://img.shields.io/badge/Code%20days-{{ STREAK }}-0fa9e6?style=for-the-badge" alt="streak"/>
 </p>
 
 ---
