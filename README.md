@@ -46,15 +46,6 @@
 
 ---
 
-## 📈 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexiathr&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&cache_seconds=86400" />
-  <img src="https://streak-stats.demolab.com?user=nexiathr&theme=tokyonight&hide_border=true&mode=weekly&cache_seconds=86400" />
-</p>
-
----
-
 ## 🎯 &nbsp;2025 Learning Radar
 
 | 🔍 Area | 📚 Why |
