@@ -8,7 +8,7 @@
 <h1 align="center">Hey&nbsp;👋, I'm <code>Robin</code></h1>
 <p align="center">
   <samp>Full-stack dev · Web3 &amp;&nbsp;AI explorer · Always learning</samp><br/>
-  <a href="https://cassard.vercel.com">cassard.vercel.com</a>
+  <a href="https://cassard.vercel.app">cassard.vercel.app</a>
 </p>
 
 <p align="center">
