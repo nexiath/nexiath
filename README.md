@@ -4,20 +4,6 @@ Full-stack developer in my final year of computer science engineering at **UTBM*
 
 📍 France &nbsp;·&nbsp; 🎓 Graduating in 2027 &nbsp;·&nbsp; 💼 [Open to freelance work](mailto:robin.cassard39@gmail.com)
 
-## Projects
-
-**LearnLoop** — AI-powered revision platform for schools  
-`Next.js` `Supabase` `PostgreSQL`
-
-**FlashBundler** — Bundles swaps and bridges to cut gas and fees  
-`Solidity` `Hardhat` `ZK`
-
-**SleepTuner** — Mobile app that predicts your optimal bedtime from 20+ signals  
-`React Native` `TypeScript` `LSTM`
-
-**Fibre ou Pipeau** <sub><i>“fibre or baloney?”</i></sub> — Real-time fibre eligibility checker for France  
-`SvelteKit` `MapLibre`
-
 ## Path
 
 **Forvia** · apprentice engineer · *2024 → now*  
@@ -43,6 +29,6 @@ Mapped 1,000+ servers: automated SBOMs, vulnerability and network-topology visua
 
 ## Contact
 
-[cassard.vercel.app](https://cassard.vercel.app) · [LinkedIn](https://www.linkedin.com/in/robin-cassard/) · [robin.cassard39@gmail.com](mailto:robin.cassard39@gmail.com) · [X @nexiathr](https://x.com/nexiathr)
+[cassard.vercel.app](https://cassard.vercel.app) · [LinkedIn](https://www.linkedin.com/in/robin-cassard/) · [robin.cassard39@gmail.com](mailto:robin.cassard39@gmail.com)
 
 *Build small, ship fast, learn always.*
